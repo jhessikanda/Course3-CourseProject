@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Course 3 - Getting and Cleaning Data
 
 ### Course Project
@@ -20,9 +19,3 @@
 	7) Name the columns accordingly. The 66 features were named as "Feature 1", "Feature 2", etc(they are described in the CodeBook). The other columns were named "Subject" and "Activity".
 	8) The function aggregate was used to compute the average value of each feature variable according to Subject AND Activity.
 	9) Finally the tidy data set was written in a text file called 'TidyDataSet_CourseProject3.txt' that you can find in this repository.
-=======
-Course3-CourseProject
-=====================
-
-Course3-CourseProject
->>>>>>> 2a7d0af81dc1ccf001bf62d14c06273a9b522d80
