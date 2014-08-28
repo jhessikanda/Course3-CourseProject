@@ -6,7 +6,7 @@
 
 There are in total 66 feature variables in the tidy data set(Only 'mean' and 'std' functions were considered). They are described as follows:
 
-Feature Variables(Type: Numeric)
+Feature Variables(Type: Numeric) \n
 	"Feature 1".tBodyAcc-mean()-X
 	"Feature 2".tBodyAcc-mean()-Y
 	"Feature 3".tBodyAcc-mean()-Z
