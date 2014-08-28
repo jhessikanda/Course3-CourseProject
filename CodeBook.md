@@ -6,7 +6,7 @@
 
 There are in total 66 feature variables in the tidy data set(Only 'mean' and 'std' functions were considered). They are described as follows:
 
-Feature Variables(Type: Numeric) <br />
+* Feature Variables(Type: Numeric) <br />
 	"Feature 1" : tBodyAcc-mean()-X <br />
 	"Feature 2" : tBodyAcc-mean()-Y <br />
 	"Feature 3" : tBodyAcc-mean()-Z <br />
@@ -74,7 +74,7 @@ Feature Variables(Type: Numeric) <br />
 	"Feature 65" : fBodyBodyGyroJerkMag-mean() <br />
 	"Feature 66" : fBodyBodyGyroJerkMag-std() <br />
 	
-Activity(Type: Character) <br />
+* Activity(Type: Character) <br />
 	1.WALKING <br />
 	2.WALKING_UPSTAIRS <br />
 	3.WALKING_DOWNSTAIRS <br />
@@ -82,5 +82,5 @@ Activity(Type: Character) <br />
 	5.STANDING <br />
 	6.LAYING <br />
 
-Subject (Type: Numeric) <br />
+* Subject (Type: Numeric) <br />
 	Subjects that were submited to this experiment. In total 30 different subjects identified from 1 to 30.
